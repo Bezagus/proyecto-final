@@ -59,7 +59,6 @@ Este Proyecto fue realizado por un grupo de ocho integrantes.
 __Herramienta Utilizadas para oden Grupal__:
 
 <a href="https://www.figma.com/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="trello" width="40" height="40"></a>
-<a href="https://trello.com/"><img src="https://cdn-icons-png.flaticon.com/512/174/174874.png" alt="figma" width="40" height="40"></a>
 <a href="https://trello.com/"><img src="https://cdn-icons-png.flaticon.com/512/174/174874.png" alt="trello" width="40" height="40"></a>
 <a href="https://github.com/"><img src="https://cdn-icons-png.flaticon.com/512/25/25657.png" alt="github" width="40" height="40"></a>
 <a href="https://git-scm.com/"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494740.png" alt="git" width="40" height="40"></a>
