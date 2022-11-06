@@ -2,7 +2,7 @@
 
 # Proyecto Grupal - Henry Bienes Raices
 
-<p align="right">
+<p align="center">
   <img height="300" src="./Img Project/LOGUITO-PF.svg" />
 </p>
 
