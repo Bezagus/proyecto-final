@@ -6,6 +6,8 @@
   <img height="300" src="./Img Project/LOGUITO-PF.svg" />
 </p>
 
+Video Youtube: https://www.youtube.com/watch?v=Y2hWncYXqjQ <br/>
+Link Proyecto : https://henrybienesraices.vercel.app/
 ## Objetivos del Proyecto
 
 Usuario Basico:
