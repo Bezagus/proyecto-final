@@ -56,7 +56,7 @@ Este Proyecto fue realizado por un grupo de ocho integrantes.
 - Franco Camus.
 - Enzo Ulloa.
 - Bautista Moreiro.
-- Agustin Benitez.
+- <a href="https://www.linkedin.com/in/agustin-benitez-271b94241/">Agustin Benitez.</a>
 
 __Herramienta Utilizadas para oden Grupal__:
 
