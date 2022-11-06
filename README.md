@@ -1,9 +1,9 @@
-![portada](./Img Project/LOGUITO-PF.svg)
+![portada]([./Img Project/LOGUITO-PF.svg](https://zamponepropiedades.com.ar/images/notas/20200604134553107_productividad-agencia-inmobiliaria-2-e1571754106299.jpg))
 
 # Proyecto Grupal - Henry Bienes Raices
 
 <p align="right">
-  <img height="200" src="./Img Project/LOGUITO-PF.svg" />
+  <img height="300" src="./Img Project/LOGUITO-PF.svg" />
 </p>
 
 ## Objetivos del Proyecto
