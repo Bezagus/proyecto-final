@@ -3,7 +3,7 @@
 # Proyecto Grupal - Henry Bienes Raices
 
 <p align="right">
-  <img height="200" src="./screenshot/cooking.png" />
+  <img height="200" src="./Img Project/LOGUITO-PF.svg" />
 </p>
 
 ## Objetivos del Proyecto
