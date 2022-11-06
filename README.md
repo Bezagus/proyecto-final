@@ -1,4 +1,4 @@
-![HenryLogo](./Img Project/LOGUITO-PF.svg)
+![portada](./Img Project/LOGUITO-PF.svg)
 
 # Proyecto Grupal - Henry Bienes Raices
 
