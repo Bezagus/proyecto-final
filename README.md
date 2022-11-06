@@ -1,4 +1,4 @@
-![portada]([./Img Project/LOGUITO-PF.svg](https://zamponepropiedades.com.ar/images/notas/20200604134553107_productividad-agencia-inmobiliaria-2-e1571754106299.jpg))
+![portada](https://zamponepropiedades.com.ar/images/notas/20200604134553107_productividad-agencia-inmobiliaria-2-e1571754106299.jpg)
 
 # Proyecto Grupal - Henry Bienes Raices
 
