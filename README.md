@@ -80,12 +80,19 @@ __Herramienta Utilizadas para oden Grupal__:
 
 ## Imagenes del Proyecto.
 
+__Home__:
 <a href="https://henrybienesraices.vercel.app/"><img src="./Img Project/home.jpg" /></a>
+__Cards Filter__:
 <a href="https://henrybienesraices.vercel.app/"><img src="./Img Project/card.jpg" /></a>
+__Footer__:
 <a href="https://henrybienesraices.vercel.app/"><img src="./Img Project/footer.jpg" /></a>
+__Ownerships__:
 <a href="https://henrybienesraices.vercel.app/"><img src="./Img Project/cards.jpg" /></a>
+__Login__:
 <a href="https://henrybienesraices.vercel.app/"><img src="./Img Project/login.jpg" /></a>
+__User Panel__:
 <a href="https://henrybienesraices.vercel.app/"><img src="./Img Project/infouser.jpg" /></a>
+__Favorites Section__:
 <a href="https://henrybienesraices.vercel.app/"><img src="./Img Project/favorite.jpg" /></a>
 
 
