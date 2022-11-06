@@ -83,7 +83,7 @@ __Herramienta Utilizadas para oden Grupal__:
 ## Imagenes del Proyecto.
 
 __Home__:
-<a href="https://henrybienesraices.vercel.app/"><img src="./Img Project/home.jpg" /></a>
+<a href="https://henrybienesraices.vercel.app/"><img src="./Img Project/home1.jpg" /></a>
 __Cards Filter__:
 <a href="https://henrybienesraices.vercel.app/"><img src="./Img Project/card.jpg" /></a>
 __Footer__:
@@ -95,6 +95,6 @@ __Login__:
 __User Panel__:
 <a href="https://henrybienesraices.vercel.app/"><img src="./Img Project/infouser.jpg" /></a>
 __Favorites Section__:
-<a href="https://henrybienesraices.vercel.app/"><img src="./Img Project/favorite.jpg" /></a>
+<a href="https://henrybienesraices.vercel.app/"><img src="./Img Project/favorite1.jpg" /></a>
 
 
